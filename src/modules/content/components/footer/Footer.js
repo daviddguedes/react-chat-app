@@ -10,7 +10,7 @@ const Footer = props => (
                <Input type="email" id="exampleInputEmail1" placeholder="Enter message" />
             </FormGroup>
          </Col>
-         <Col>
+         <Col md="6">
             <FormGroup>
                <Button color="primary">Enviar</Button>{' '}
             </FormGroup>
