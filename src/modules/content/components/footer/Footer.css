@@ -1,0 +1,8 @@
+.box-footer {
+   padding: 1em;
+   background-color: #efe4d8;
+   height: 5em;
+   position: fixed;
+   bottom: 0;
+   width: 100%;
+}

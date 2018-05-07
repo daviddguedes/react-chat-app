@@ -1,0 +1,5 @@
+.box-flow {
+   padding: 1em;
+   height: 900px;
+   overflow-y: scroll;
+}

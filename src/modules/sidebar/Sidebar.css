@@ -1,0 +1,4 @@
+.sidebar-scroll { 
+   overflow-y: scroll;
+   height: 900px;
+}

@@ -1,0 +1,10 @@
+.sidebar-content {
+  background-color: #fbf6f0;
+  height: 100%;
+}
+
+.content-right {
+  background-color: #e6d8c6;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
